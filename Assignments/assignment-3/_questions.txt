@@ -1,0 +1,13 @@
+1. Write a C program to find whether a character is vowel or consonant. 
+2. Write a C program to swap 2 numbers without using third variable and arithmetic operators. 
+3.  Write a C program to print the prime numbers from 0 to 30. 
+4. Write a C program to print the Fibonacci series from 0 to 50. 
+5. Write a C program to reverse a number and find whether it is palindrome or not. Also print the number of digits along with sum of the digits and product of the digits. 
+6. Write a C program to find the factorial of a number using functions. 
+7. What is the output of the following code? 
+#include<stdio.h> int func() { printf("Function\n"); }  void main() { int x=10; x = func(); printf("x=%d\n",x); } 
+8. Write a C program to print an array in sub function. 
+9. Find the output of the following code: 
+#include<stdio.h> void func1(); void func2(); int a,b=6; int main() {  printf("Inside main(): a=%d b=%d\n",a,b);  func1();  func2();  return 0; } void func1() {  int a=3;  printf("Inside func1(): a=%d b=%d\n",a,b); } int a=5; void func2() {  int a=25061953;  printf("Inside func2(): a=%d b=%d\n",a,b); } 
+10. Write a c program to find the permutation and combination of numbers ‘n’ and ‘r’ [Note: n>=r]. 
+Permutation: p(n,r) = n!/(n-r)! Combination: c(n,r) = n!/((n-r)!r!) 

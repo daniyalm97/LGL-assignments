@@ -10,7 +10,7 @@ float pa;
 };
 void main()
 {
-int i,j,n,m;
+int i,j,n;
 float pf,gs;
 char name[20];
 struct employee e[20];
@@ -34,7 +34,6 @@ for(i=0;i<n;i++)
   {
   if(strcmp(name,e[j].name)==0)
    {
-   m=j;
    break; 
    }
   else
@@ -42,9 +41,9 @@ for(i=0;i<n;i++)
    break;
    }
   }
- pf=(e[m].salary*12)/100;
- gs=pf+e[m].hra+e[m].pa;
- printf("\nName:%s\n",e[m].name);
+ pf=(e[j].salary*12)/100;
+ gs=pf+e[j].hra+e[j].pa;
+ printf("\nName:%s\n",e[j].name);
  printf("PF:%.2f\n",pf);
  printf("Gross Salary:%.2f\n",gs);
 }

@@ -1,0 +1,8 @@
+7. OUTPUT:
+   Function
+   x=10
+
+9. OUTPUT:
+   Inside main(): a=5 b=6
+   Inside func1(): a=3 b=6
+   Inside func2(): a=25061953 b=6
