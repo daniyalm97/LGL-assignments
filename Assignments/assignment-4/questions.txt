@@ -1,0 +1,12 @@
+
+1. Write a C program to find the sum of respective elements in two arrays and print the output array in reverse order. 
+2. Write a C program to separate even and odd elements in an array. Also find their sum. 
+3. Write a C program to sort an array in ascending order. 
+4. Write a C program to insert a number in the specified index of an array. 
+5. Write a C program to concatenate n characters of a string to another string without using string functions. 
+6. Write a C program to compare two strings considering the cases [upper or lower] without using string functions. 
+7. Write a C program to swap two numbers using pointers and without using third variable. 
+8. Write a C program to add a number to all the elements in an array by initializing a pointer to the array. 
+9. Write a C program to take a sentence as an input using scanf and print the same using printf. 
+10. Write a C program to print the following using strings, loops and control statements by taking input as “Loginware”.  
+Output: erawnigoL erawnigo erawnig erawni erawn eraw era er 
