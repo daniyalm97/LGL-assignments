@@ -1,0 +1,18 @@
+1. Write a program in python to find the modulus, exponent and floor division of two numbers. 
+2. Write a program in python to demonstrate the use of identity operators. 
+3. Write a program in python to find the largest of three numbers using nested if statement. 
+4. Is it possible to use else statement with the loops in python? If yes, write a program to illustrate the same. 
+5. Write a program in python to make all arithmetic operations [+, -, *, /, %] using separate functions for all operations. 
+6. Write a program in python to use append( ), pop( ), insert( ), remove( ), reverse( ), sort( ), index( ) and count( ) to manipulate the lists. 
+7. In python, what are tuples? What is the difference between lists and tuple? 
+8. Write a program in python to find all the numbers which are divisible by 7 but are not a multiple of 5 between 1 and 100. Store the numbers obtained in a list and print the list. 
+9. What is meant by dictionary in python? What is its importance? Write a program to demonstrate the use of str( ), items( ), len( ), copy( )  and clear( ) to manipulate the dictionary. 
+10. What is the output of the following code: 
+str = 'Hello World ' 
+print str 
+print len(str) 
+print str[0] 
+print str[2:5] 
+print str[3:] 
+print str*2 
+print str + "TEST" 
