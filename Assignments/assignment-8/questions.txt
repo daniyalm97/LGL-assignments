@@ -1,0 +1,12 @@
+1. Write a python program to create a text file and write the contents to the created text file. 
+2. Write a python program to access and print the data which is stored inside one of the text file. 
+3. What are the differences between microcontroller and microprocessor? Justify why 8051 is a microcontroller and Raspberry Pi is a microprocessor. 
+4. Mention the differences between Raspberry Pi 0, 2 and 3. 
+5. List the features of Raspberry Pi 3. Also mention which is the latest version of Raspberry Pi board and when it was released. On what basis is the operating system for Raspberry Pi developed? 
+6. Explain the working of the following peripherals: 
+a. Ultrasonic sensor 
+b. Float sensor 
+7. Mention the features of DHT11 humidity and temperature sensor 
+8. List the commands for installing the DHT11 Adafruit library in Raspberry Pi. 
+9. Give the description about SPI protocol. 
+10. List the commands for installing the SPI RFID library in Raspberry Pi. 

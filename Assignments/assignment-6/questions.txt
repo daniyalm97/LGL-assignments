@@ -1,0 +1,23 @@
+1. List all the hex commands along with their functionality used when interfacing the LCD with the microcontroller. 
+2. Write a program to display custom characters on 16x2 LCD. Also explain how it works. 
+3. Explain the working principle of the following: 
+a. IR sensor. 
+b. LDR. 
+c. RFID. 
+4. Briefly explain the following communication protocols: 
+a. UART. 
+b. I2C. 
+5. Write the differences between serial and parallel communication. 
+6. Explain simplex, half duplex and full duplex communications. Also mention which of these is used in 8051 microcontroller. 
+7. Write the bit diagram of the following registers used in serial communication with 8051 microcontroller: 
+a. SMOD 
+b. SBUF 
+c. TCON 
+d. TMOD 
+8. Explain how UART is different from USART. 
+9. Explain how TI [transmit interrupt] and RI [receive interrupt] helps in serial transmission and reception of data respectively. 
+10. Answer the following: 
+a. Which architecture is used in 8051 microcontroller? 
+b. Why is 8051 called an 8-bit microcontroller? 
+c. Which technology was used to develop 8051 microcontroller? 
+d. What is the width of address and data bus in 8051? 

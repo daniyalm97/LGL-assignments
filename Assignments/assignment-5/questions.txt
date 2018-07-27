@@ -1,0 +1,16 @@
+1. Write the architectural diagram of 8051. 
+2. List all the key features of 8051 microcontroller. 
+3. Write the diagram and working of crystal oscillator used in 8051 microcontroller. What is the operating frequency of 8051 microcontroller? 
+4. What are pull-up resistors? For what purpose are they used in 8051 microcontroller? 
+5. Define the following terms: 
+a. Machine cycle. 
+b. Baud rate. 
+c. Interrupt. 
+d. Interrupt service routine. 
+e. Interrupt vector table. 
+f. Interrupt handler. 
+6. What is voltage regulator? Why is it used in 8051 microcontroller? Explain its working with diagram. Why heat sink is required in 8051? 
+7. What is bridge rectifier? Explain its working with a diagram. Why is it necessary in 8051 microcontroller? 
+8. Explain why a program cannot be loaded to 8051 microcontroller when pin 0 and pin 1 of port 3 are busy. 
+9. Define UART. Explain the need of UART in dumping a program to the 8051 microcontroller. 
+10. Write the pin diagram of MAX232 IC. Explain its need in 8051 microcontroller. 
