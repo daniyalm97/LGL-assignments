@@ -1,0 +1,16 @@
+3. 123 is an integer value and "123" is a string.
+
+4. Semicolon indicates the termination(end) of a statement in C.
+
+6. The following steps are involved in converting a C file to an executable:
+   Step1: The code in the C file in compiled using a compiler. In this case, the compiler is GCC.
+   Step2: The compilation results in the generation of an "a.out" file.
+   Step3: The "a.out" file is executed by prefixing the './' shell command in the terminal.
+
+10.An escape sequence is a series of characters used in literals that are used to perform the function of a specific character.
+   Escape sequences are denoted by a backslash '\' and a character that is used to represent a specific function.
+   \n - next line
+   \t - tabspace
+   \r - return
+   \b - backspace
+   

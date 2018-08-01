@@ -1,0 +1,19 @@
+1. Write a C program to perform all arithmetic operations [+ , - , * , / , %] with results printed up to 3 decimal points. [Note: Take all inputs as floating point] 
+ 
+2. Write a C Program to Find ASCII Value of a character. 
+ 
+3.  What is the difference between 123 and "123"?  
+ 
+4. What is the function of the semicolon in a C statement?  
+ 
+5. Write a C Program to calculate area and circumference of circle. 
+ 
+6. Document the steps involved in conversion of a C file to an executable. 
+ 
+7. Write a C program to swap two numbers without using temporary variable and print the numbers. 
+ 
+8. Write a C Program to demonstrate the working of keyword long. 
+ 
+9. Write a C program to calculate the square root of a number. 
+ 
+10. What are escape sequences in C? Why are they used during programming? List the functionality of all escape sequences. 
