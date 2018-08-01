@@ -9,10 +9,11 @@ The following functions are implemented in the above setup:
 4. Receive SMS
 
 Components used are listed below:
-Raspberry Pi 3 B+
-SIM800L quad band GSM module
-Micro sim of supported carrier
+1. Raspberry Pi 3 B+
+2. SIM800L quad band GSM module
+3. Micro sim of supported carrier
 
 Dependencies:
-RPi.GPIO python library
-Time python library
+1. RPi.GPIO python library
+2. Time python library
+3. Serial python library

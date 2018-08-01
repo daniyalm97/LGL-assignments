@@ -1,1 +1,2 @@
-# LGL-assignments
+# LGL-Assignments
+# and Mini-Projects
