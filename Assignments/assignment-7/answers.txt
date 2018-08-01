@@ -1,0 +1,19 @@
+4. It is possible to use else statement with loops in python as illustrated in '4.py'.
+
+7. Tuples are a sequence of immutable Python objects. They are a sequence of comma seperated values.
+    Difference between tuples and lists are, the tuples can't be changed or updated and tuples are enclosed in paranthesis,
+    while the lists are enclosed in square braces and are updatable.
+     
+9. A dictionary is a collection which is unordered, changable and indexed. They are represented in curly brackets and have 
+    keys and values. 
+    Dictionaires are used to hash or map values using the key-value pairs.
+    
+10.OUTPUT
+    1. Hello World
+    2. 12
+    3. H
+    4. llo
+    5. lo World
+    6. Hello World Hello World
+    7. Hello World TEST
+    
