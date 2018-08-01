@@ -1,0 +1,57 @@
+ 1. Implement a C program to print size of all data types (Using Size of Opearator) 
+ 
+2. Implement a calculator application  that will add/multiply/divide/subtract two different values,  combinations of int and float with double should be covered 
+ User Inputs using Scanf  
+ Output to Stdout Using Printf 
+ 
+3. Implement a C Program to Find Largest among 3 Numbers using Conditional Operator 
+ User Inputs : 3 Numbers 
+ Output : Largest of 3 Numbers 
+ 
+4. Implement a C program that reads the power consumed and print the amount to be paid 
+  
+ Read the data from user using Scanf 
+ Output using Printf to StdOut 
+ 
+ User Inputs : 1) Power Consumed in Watts (Any Value from 0 to 400) 
+  
+ Conditions : 
+  If Power consumed is between 0 to 200 
+  Amount to be paid = 0.5 * (Power Consumed) 
+   
+  If Power consumed is between 200 to 300 
+  Amount to be paid = 0.75 * (Power Consumed) 
+   
+  If Power consumed is between 300 to 400 
+  Amount to be paid = 0.9 * (Power Consumed) 
+  
+5. Implement a C Program to convert temperature in Celsius to Fahrenheit 
+ 
+ User Input : Temperature in Celsius 
+ Output : Temperature in Fareheit 
+ 
+6. Implement Question No 5 in Reverse Order ( Fareheit to Celsius) 
+
+7. Implement a C Program to Calculate the gross Salary of an Employee with his Name 
+User Inputs : Name , Basic Salary , HRA , DA 
+Condition : 
+ 
+ Gross Salary = PF +HRA+DA 
+ PF = (Basic * 12) / 100 
+(Basic, HRA and DA may not be Integers always (take care to accept Decimal Values)) 
+ 
+Output : Printf to Stdout 
+ 
+8. Implement a C Program to check if the given Character is Vowel or Constant 
+ User Input : Character 
+ Output : Vowel/Constant 
+ 
+9. Implement a C Program to check if a year is leap year or not 
+ 
+User Input : Year 
+User OutPut : Leap Year or Not 
+ 
+10. Implement a C Program to Display Day of the month 
+ 
+User Input : Year,Month and Date from the user  
+Output :  day of the month. 
