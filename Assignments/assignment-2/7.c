@@ -28,16 +28,18 @@ for(i=0;i<n;i++)
  printf("\tPA:");
  scanf("%f",&e[i].pa);
  }
-while(n!=0)
- {
  printf("\nEnter the name of the employee whose salary is to be calculated\n:");
  scanf("%s",name);
  for(j=0;j<i;j++)
   {
-  if(!strcmp(name,e[j].name))
+  if(strcmp(name,e[j].name)==0)
    {
    m=j;
    break; 
+   }
+  else
+   {
+   break;
    }
   }
  pf=(e[m].salary*12)/100;
@@ -45,6 +47,4 @@ while(n!=0)
  printf("\nName:%s\n",e[m].name);
  printf("PF:%.2f\n",pf);
  printf("Gross Salary:%.2f\n",gs);
- n--;
- }
 }
